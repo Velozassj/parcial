@@ -2,8 +2,8 @@
 # Taller
 
 ## INTEGRANTES
-- Juan David Veloza Chaves 1019903241
-- Tomás Felipe Morera Pérez 1033101003
+- Juan David Veloza Chaves 
+- Tomás Felipe Morera Pérez 
 
 ## INFORMACION
 - Pensamiento Algorítmico
